@@ -11,7 +11,7 @@ enableFlag = False
 resolutionFlag = False
 
 def script_description():
-    return "Надо написать что-то умное и информативное"
+    return "This script automatically resets the capture card when the resolution is changed."
 
 def script_properties():
     props = obs.obs_properties_create()
