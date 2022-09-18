@@ -1,0 +1,1 @@
+# obs-captrure-card-reset
